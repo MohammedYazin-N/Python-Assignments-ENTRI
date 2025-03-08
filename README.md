@@ -1,3 +1,3 @@
 
-# you can see my Python Assignments practised at  ENTRI ELEVATE
+# Python Assignments-ENTRI ELEVATE
 
